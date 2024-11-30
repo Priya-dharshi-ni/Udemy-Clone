@@ -16,6 +16,14 @@ This project was created to enhance my front-end development skills, focusing on
 
 ## Technologies Used  
 - **HTML**  
-- **CSS**  
+- **CSS**
+
+## How to View
+
+1. Clone the repository:  
+   ```bash
+   git clone https://priya-dharshi-ni.github.io/Udemy-Clone/
+   ```
+2. Open the `index.html` file in your browser to explore the page.
 
 Thank you for visiting and exploring my udemy clone website.
